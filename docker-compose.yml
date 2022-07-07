@@ -11,7 +11,7 @@ services:
       - ./:/usr/src/app
 
     stdin_open: true
-    
+
   tests:
     build:
       context: .
