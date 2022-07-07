@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn change success
+          Learn change successs
         </a>
       </header>
     </div>
