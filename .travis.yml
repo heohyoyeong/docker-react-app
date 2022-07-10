@@ -15,10 +15,10 @@ script:
 
 deploy:
   probider: elasticbeanstalk
-  region: "us-west-2"
-  app: "docker-react-app"
-  env: "Dockerreactapp-env"
-  bucket_name: "elasticbeanstalk-us-west-2-665683613775"
+  region: "ap-northeast-2"
+  app: "docker-react-test"
+  env: "Dockerreacttest-env"
+  bucket_name: "elasticbeanstalk-ap-northeast-2-665683613775"
   bucket_path: docker-react-app
   on:
     branch: master
