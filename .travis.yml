@@ -17,7 +17,7 @@ deploy:
   probider: elasticbeanstalk
   region: "ap-northeast-2"
   app: "docker-react-test"
-  env: "Dockerreacttest-env"
+  env: "DockerReactTest-env"
   bucket_name: "elasticbeanstalk-ap-northeast-2-665683613775"
   bucket_path: docker-react-test
   on:
